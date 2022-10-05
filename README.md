@@ -1,6 +1,7 @@
-# DeepLearning-Study
+# KAIST 딥러닝 홀로서기
+![image](https://user-images.githubusercontent.com/65642065/194006085-6fb99a62-2166-4b84-a13d-3f3311235588.png)
 
-### 일정
+### 스터디 일정
 * 10/6 2-4
 * 10/7 5-7
 * 10/10 8-12
