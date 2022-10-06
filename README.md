@@ -4,7 +4,7 @@ https://youtu.be/nHSCpxyAHx8
 
 ### 스터디 일정
 * 10/6 
-  * #2.Lec ML BAsic
+  * #2.Lec ML Basic
   * #3.Lec Linear Regression
   * #4.Lec Linear Regression Practice
 * 10/7 
