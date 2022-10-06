@@ -8,42 +8,42 @@ https://youtu.be/nHSCpxyAHx8
   * #3.Lec Linear Regression
   * #4.Lec Linear Regression Practice
 * 10/7 
-  * #5.Lec 
-  * #6.Lec
-  * #7.Lec
+  * #5.Lec Regression with Pytorch
+  * #6.Lec Multi-Label Classification
+  * #7.Lec Multi-Label Classification with Pytorch
 * 10/10 
-  * #8.Lec 
-  * #9.Lec
-  * #10.Lec
-  * #11.Lec 
-  * #12.Lec
+  * #8.Lec History of DL/MLP Basic
+  * #9.Lec MLP Regression with Pytorch / Assignment1
+  * #10.Lec Assignment1 Review
+  * #11.Lec How to Parameterize DL Code
+  * #12.Lec Run Pytorch on GPU
 * 10/11
-  * #13.Lec
-  * #14.Lec
-  * #15.Lec
+  * #13.Lec Overfitting, Regularization
+  * #14.Lec Hyperparameter Tunning Guide
+  * #15.Lec How to Write Well-Organized DL Code from Scratch(Live Coding)
 * 10/12 
-  * #16.Lec
-  * #17.Lec
-  * #18.Lec
+  * #16.Lec Assignment2 Review
+  * #17.Lec Advanced Optimizer than SGD
+  * #18.Lec Handling Visualization of 'Many' Experiments
 * 10/13
-  * #19.Lec
-  * #20.Lec
-  * #21.Lec
+  * #19.Lec Assignment3 Review
+  * #20.Lec Basic of convolutional Neural Network
+  * #21.Lec Implementing CNN with Pytorch
 * 10/14 
-  * #22.Lec
-  * #23.Lec
-  * #24.Lec
-  * #25.Lec
+  * #22.Lec Assignment4 Review
+  * #23.Lec Advanced Architectures of CNN
+  * #24.Lec Implementing ResNet with Pytorch
+  * #25.Lec Assignment5 Review
 * 10/17 
-  * #26.Lec
-  * #27.Lec
+  * #26.Lec Basic of RNN(Recurrent Neural Network)
+  * #27.Lec Implementing Vanilla RNN with Pytorch(Failed to learn)
 * 10/18
-  * #28.Lec
-  * #29.Lec
+  * #28.Lec Advanced Architectures of RNN(LSTM, GRU)
+  * #29.Lec Stock Prediction with LSTM
 * 10/19 
-  * #30Lec
-  * #31.Lec
+  * #30.Lec Basic of Graph Convolution Network 
+  * #31.Lec Molecular Property(logP) Prediction with GCN
 * 10/20
-  * #32.Lec
-  * #33.Lec
-  * #34.Lec
+  * #32.Lec AutoEncoder and Variational AutoEncoder
+  * #33.Lec Basic of GAN
+  * #34.Lec DCCAN Code WalkThrough
