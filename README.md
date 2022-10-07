@@ -15,13 +15,13 @@ https://youtu.be/nHSCpxyAHx8
 
   * #6.Lec Multi-Label Classification
   * #7.Lec Multi-Label Classification with Pytorch
- ![image](https://user-images.githubusercontent.com/65642065/194472466-297ef88b-a2bc-4468-b1c8-60a8997be869.png)
+  ![image](https://user-images.githubusercontent.com/65642065/194483163-3a85dc89-3806-4a23-87b4-0ee2c8bb99bc.png)
 
 * 10/10 
   * #8.Lec History of DL/MLP Basic
   * #9.Lec MLP Regression with Pytorch / Assignment1
   ![image](https://user-images.githubusercontent.com/65642065/194481420-a7ccfc12-fe06-4a07-9aa0-c9879ebd050c.png)
-
+  ![image](https://user-images.githubusercontent.com/65642065/194472466-297ef88b-a2bc-4468-b1c8-60a8997be869.png)
   * #10.Lec Assignment1 Review
   * #11.Lec How to Parameterize DL Code
   * #12.Lec Run Pytorch on GPU
