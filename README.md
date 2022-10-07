@@ -15,6 +15,8 @@ https://youtu.be/nHSCpxyAHx8
 
   * #6.Lec Multi-Label Classification
   * #7.Lec Multi-Label Classification with Pytorch
+  ![image](https://user-images.githubusercontent.com/65642065/194472378-7a6cfd7a-c4fa-429f-9916-bb671099611c.png)
+
 * 10/10 
   * #8.Lec History of DL/MLP Basic
   * #9.Lec MLP Regression with Pytorch / Assignment1
