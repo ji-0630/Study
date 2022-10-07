@@ -11,6 +11,8 @@ https://youtu.be/nHSCpxyAHx8
 
 * 10/7 
   * #5.Lec Regression with Pytorch
+  ![image](https://user-images.githubusercontent.com/65642065/194455980-186f5ff2-76f0-436a-9594-8c8e28a0cccb.png)
+
   * #6.Lec Multi-Label Classification
   * #7.Lec Multi-Label Classification with Pytorch
 * 10/10 
