@@ -6,7 +6,9 @@ https://youtu.be/nHSCpxyAHx8
 * 10/6 
   * #2.Lec ML Basic
   * #3.Lec Linear Regression
-  * #4.Lec Linear Regression Practice
+  * #4.Lec Linear Regression Practice  
+  ![image](https://user-images.githubusercontent.com/65642065/194447739-c0d91d4e-6b60-4c68-8a10-6cd915adaed3.png)
+
 * 10/7 
   * #5.Lec Regression with Pytorch
   * #6.Lec Multi-Label Classification
