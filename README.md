@@ -55,3 +55,10 @@ https://youtu.be/nHSCpxyAHx8
   * #32.Lec AutoEncoder and Variational AutoEncoder
   * #33.Lec Basic of GAN
   * #34.Lec DCCAN Code WalkThrough
+---  
+# 기상청이 알려주는 이미지 분석 7가지 비법
+* 1강. 딥러닝 개요
+* 2강. 심층 신경망 모델 구현
+* 3강. 심층 신경망 훈련
+* 4강. 이미지 데이터 이해
+
