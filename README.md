@@ -1,3 +1,15 @@
+# 기상청이 알려주는 이미지 분석 7가지 비법
+
+* 1강. 딥러닝 개요
+* 2강. 심층 신경망 모델 구현
+![image](https://user-images.githubusercontent.com/65642065/195092154-a7a941ff-038c-40f5-b8fc-9ddc82c3fc47.png
+* 3강. 심층 신경망 훈련
+* 4강. 이미지 데이터 이해
+* 5강.
+* 6강.
+* 7강.
+
+---
 # KAIST 딥러닝 홀로서기
 ![image](https://user-images.githubusercontent.com/65642065/194006085-6fb99a62-2166-4b84-a13d-3f3311235588.png)
 https://youtu.be/nHSCpxyAHx8
@@ -55,15 +67,4 @@ https://youtu.be/nHSCpxyAHx8
   * #32.Lec AutoEncoder and Variational AutoEncoder
   * #33.Lec Basic of GAN
   * #34.Lec DCCAN Code WalkThrough
----  
-# 기상청이 알려주는 이미지 분석 7가지 비법
-![image](https://user-images.githubusercontent.com/65642065/195092710-df6bd3fb-7731-48f7-85e3-b7a8382e676a.png)
 
-* 1강. 딥러닝 개요
-* 2강. 심층 신경망 모델 구현
-![image](https://user-images.githubusercontent.com/65642065/195092154-a7a941ff-038c-40f5-b8fc-9ddc82c3fc47.png
-* 3강. 심층 신경망 훈련
-* 4강. 이미지 데이터 이해
-* 5강.
-* 6강.
-* 7강.
