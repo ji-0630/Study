@@ -2,7 +2,6 @@
 
 * 1강. 딥러닝 개요
 * 2강. 심층 신경망 모델 구현
-![image](https://user-images.githubusercontent.com/65642065/195092154-a7a941ff-038c-40f5-b8fc-9ddc82c3fc47.png
 * 3강. 심층 신경망 훈련
 * 4강. 이미지 데이터 이해
 * 5강.
