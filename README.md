@@ -4,7 +4,13 @@
 * 2강. 심층 신경망 모델 구현
 * 3강. 심층 신경망 훈련
 * 4강. 이미지 데이터 이해
-* 5강.
+
+
+
+![image](https://user-images.githubusercontent.com/65642065/195277237-56c48c95-9cb3-4f34-99d6-960f8e4c2f13.png)
+![image](https://user-images.githubusercontent.com/65642065/195277276-b65944ce-8b2e-4ccd-ab58-a04f37086476.png)
+
+* 5강. 합성곱 신경망
 * 6강.
 * 7강.
 
