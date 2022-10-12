@@ -14,6 +14,8 @@
 
 
 ![image](https://user-images.githubusercontent.com/65642065/195277237-56c48c95-9cb3-4f34-99d6-960f8e4c2f13.png)
+![image](https://user-images.githubusercontent.com/65642065/195288553-f75ece7c-d441-4045-9be4-47b5de7213ca.png)
+![image](https://user-images.githubusercontent.com/65642065/195288580-1aab22e2-7ce3-4836-ada6-1cf4d839fc34.png)
 ![image](https://user-images.githubusercontent.com/65642065/195277276-b65944ce-8b2e-4ccd-ab58-a04f37086476.png)
 
 * 5강. 합성곱 신경망
