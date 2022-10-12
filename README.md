@@ -2,16 +2,25 @@
 
 * 1강. 딥러닝 개요
 * 2강. 심층 신경망 모델 구현
-* 3강. 심층 신경망 훈련
-* 4강. 이미지 데이터 이해
 
+![image](https://user-images.githubusercontent.com/65642065/195288089-a8998da9-1acd-4810-94a0-eaea382cc5c6.png)
+![image](https://user-images.githubusercontent.com/65642065/195288121-78055ab8-490f-4405-8f59-824a0f52913a.png)
+
+* 3강. 심층 신경망 훈련
+
+![image](https://user-images.githubusercontent.com/65642065/195287896-ee5e6c7c-1937-4ef2-9f78-dfc87adec210.png)
+
+* 4강. 이미지 데이터 이해
 
 
 ![image](https://user-images.githubusercontent.com/65642065/195277237-56c48c95-9cb3-4f34-99d6-960f8e4c2f13.png)
 ![image](https://user-images.githubusercontent.com/65642065/195277276-b65944ce-8b2e-4ccd-ab58-a04f37086476.png)
 
 * 5강. 합성곱 신경망
-* 6강.
+
+![image](https://user-images.githubusercontent.com/65642065/195287729-7de57c2f-46db-42af-a2ff-a7ccd7a3ee88.png)
+
+* 6강. 합성곱 신경망 성능 개선
 * 7강.
 
 ---
