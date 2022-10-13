@@ -29,6 +29,10 @@
 
 * 7강. 다양한 합성곱 
 
+
+![image](https://user-images.githubusercontent.com/65642065/195619329-e16d9848-9989-488f-a0b3-56e79bebb85b.png)
+
+
 ---
 # KAIST 딥러닝 홀로서기
 ![image](https://user-images.githubusercontent.com/65642065/194006085-6fb99a62-2166-4b84-a13d-3f3311235588.png)
