@@ -24,7 +24,7 @@
 
 * 6강. 합성곱 신경망 성능 개선
 
-![image](https://user-images.githubusercontent.com/65642065/195603780-4d689495-0bea-4481-a478-a0ddf68c2131.png)
+![image](https://user-images.githubusercontent.com/65642065/195621729-d602de5e-b5b3-4ec3-a0a6-15129938e51f.png)
 
 
 * 7강. 다양한 합성곱 
