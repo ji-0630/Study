@@ -23,6 +23,10 @@
 ![image](https://user-images.githubusercontent.com/65642065/195287729-7de57c2f-46db-42af-a2ff-a7ccd7a3ee88.png)
 
 * 6강. 합성곱 신경망 성능 개선
+
+![image](https://user-images.githubusercontent.com/65642065/195603780-4d689495-0bea-4481-a478-a0ddf68c2131.png)
+
+
 * 7강. 다양한 합성곱 
 
 ---
